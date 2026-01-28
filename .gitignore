@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.ipynb_checkpoints/
+*.keras
+*.h5
+output/
+!output/__init__.py
+data/*.npy
+!data/__init__.py
